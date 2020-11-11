@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 305853e685404024bb56ad3adf1e7f53, type: 3}
+  m_Name: GUESS THE CAR BRAND [BMW]
+  m_EditorClassIdentifier: 
+  questionImage: {fileID: 21300000, guid: 7aae1ff7f4ee4824b9e2040a6293196a, type: 3}
+  questionText: GUESS THE CAR BRAND
+  time: 10
+  answers:
+  - MERCEDES-BENZ
+  - AUDI
+  - BMW
+  correctAnswer: 2
